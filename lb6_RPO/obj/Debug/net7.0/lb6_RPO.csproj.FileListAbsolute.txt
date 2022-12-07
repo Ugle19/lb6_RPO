@@ -1,0 +1,15 @@
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/bin/Debug/net7.0/lb6_RPO
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/bin/Debug/net7.0/lb6_RPO.deps.json
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/bin/Debug/net7.0/lb6_RPO.runtimeconfig.json
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/bin/Debug/net7.0/lb6_RPO.dll
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/bin/Debug/net7.0/lb6_RPO.pdb
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/lb6_RPO.csproj.AssemblyReference.cache
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/lb6_RPO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/lb6_RPO.AssemblyInfoInputs.cache
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/lb6_RPO.AssemblyInfo.cs
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/lb6_RPO.csproj.CoreCompileInputs.cache
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/lb6_RPO.dll
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/refint/lb6_RPO.dll
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/lb6_RPO.pdb
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/lb6_RPO.genruntimeconfig.cache
+/Users/MacOS/Projects/lb6_RPO/lb6_RPO/obj/Debug/net7.0/ref/lb6_RPO.dll
