@@ -11,20 +11,6 @@ namespace lb6_RPO.classesMatrix
         //запись в файл 
         public static void writeMatrix(int[,] matrix)
         {
-            //bool exit = false;
-            //////вывод
-            //using (StreamWriter sw = new StreamWriter(filePath,false))
-            //{
-            //    for (int i = 0; i < matrix.GetLength(0); i++)
-            //    {
-            //        for(int j =0; j< matrix.GetLength(1);j++)
-            //        {
-            //            sw.Write(matrix[i, j] + " ");
-            //        }
-            //        sw.WriteLine();
-            //    }
-            //    sw.Close();
-            //}
             Console.WriteLine("WRITE NATRIX:");
             using (StreamWriter stream = new StreamWriter(filePath))
             {
@@ -47,10 +33,11 @@ namespace lb6_RPO.classesMatrix
             }
         }
 
+        //чтение файла 
         public static void readMatrix()
         {
             Console.WriteLine(" READ MATRIX: ");
-            StreamReader file = new StreamReader(filePath);//чтение файла (массив в который будем вносить)
+            StreamReader file = new StreamReader(filePath);
             string s = file.ReadToEnd();
             file.Close();
             string[] str = s.Split('\n');
@@ -70,22 +57,4 @@ namespace lb6_RPO.classesMatrix
             generationMatrix.outputMatrix(a);
         }
     }
-
-
-    //чтение
-    //StreamReader idreader = new StreamReader(@"D:\FilesWPF\employee.txt");
-    //          {
-    //              string[] sas = idreader.ReadToEnd().Split('\t');
-    //              if (!idreader.EndOfStream)
-    //              {
-    //                  sas = idreader.ReadToEnd().Split('\t');
-    //              }
-    //            //  for (int i = 0; i < sas.Length; i++) { MessageBox.Show(sas[i]); }               
-
-    //              idreader.Close();
-    //          }
-
-
-
-
 }
