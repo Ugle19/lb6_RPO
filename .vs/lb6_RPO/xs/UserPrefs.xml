@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{A3D7E0E5-1B8E-41D4-8315-B55189003CA1}|Default">
-  <MonoDevelop.Ide.ItemProperties.lb6__RPO FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.lb6__RPO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="lb6_RPO/classesMatrix/readAndWriteMatrix.cs">
+    <Files>
+      <File FileName="lb6_RPO/Program.cs" Line="23" Column="48" />
+      <File FileName="lb6_RPO/classesMatrix/readAndWriteMatrix.cs" Line="17" Column="62" />
+      <File FileName="lb6_RPO/classesMatrix/mathOperationMatrix.cs" Line="103" Column="1" />
+      <File FileName="lb6_RPO/classesMatrix/generationMatrix.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lb6_RPO" expanded="True">
+            <Node name="lb6_RPO" expanded="True">
+              <Node name="classesMatrix" expanded="True">
+                <Node name="readAndWriteMatrix.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
